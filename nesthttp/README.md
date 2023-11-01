@@ -2,7 +2,7 @@
 
 3 步：
 
-- npm install
+- pnpm install
 
 - nest start --watch
 
